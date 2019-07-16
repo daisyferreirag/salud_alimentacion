@@ -51,15 +51,19 @@ gplus_username:  lorem_ipsum
 ## Activities
 The file name has to be named as YYYY-MM-DD-name.md
 
-Add this header in each file
+### Header file
 
 ```yaml
-\---
+---
 layout: default
 title: "Title name"
 photo: "photo file name without extention"
-\---
+---
 ```
+### Location file
+_site folder
+
+
 
 ## Color and Particle Customization
 - Color Customization

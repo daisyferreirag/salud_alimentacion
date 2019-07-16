@@ -65,7 +65,7 @@ gulp.task('fonts', function() {
 gulp.task('imagemin', function() {
 	return gulp.src('src/img/**/*.{jpg,png,gif}')
 		.pipe(plumber())
-		.pipe(imagemin({ optimizationLevel: 3, progressive: true, interlaced: true }))
+		.pipe(imagemin({ optimizationLevel: 10, progressive: true, interlaced: true }))
 		.pipe(gulp.dest('assets/img/'))
 });
 
@@ -89,3 +89,5 @@ gulp.task('watch', function() {
 });
 
 gulp.task('default', gulp.series(['js', 'sass', 'fonts', 'browser-sync', 'watch']));
+
+gulp.task('content', gulp.series(['js', 'sass', 'fonts']));

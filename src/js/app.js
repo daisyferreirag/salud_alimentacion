@@ -6,17 +6,17 @@ document.addEventListener("DOMContentLoaded", function () {
   particlesJS('particles-js', {
     "particles": {
       "number": {
-        "value": 30,
+        "value": 80,
         "density": {
           "enable": true,
           "value_area": 800
         }
       },
       "color": {
-        "value": "#ffffff"
+        "value": "#15d787"
       },
       "shape": {
-        "type": "polygon",
+        "type": "image",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "nb_sides": 5
         },
         "image": {
-          "src": "img/github.svg",
+          "src": "assets/img/logo.png",
           "width": 100,
           "height": 100
         }
@@ -44,8 +44,8 @@ document.addEventListener("DOMContentLoaded", function () {
         "value": 3,
         "random": true,
         "anim": {
-          "enable": false,
-          "speed": 19.18081918081918,
+          "enable": true,
+          "speed": 14.617389821424212,
           "size_min": 0.1,
           "sync": false
         }
@@ -59,8 +59,8 @@ document.addEventListener("DOMContentLoaded", function () {
       },
       "move": {
         "enable": true,
-        "speed": 4,
-        "direction": "none",
+        "speed": 2,
+        "direction": "top",
         "random": true,
         "straight": false,
         "out_mode": "out",
@@ -70,19 +70,18 @@ document.addEventListener("DOMContentLoaded", function () {
           "rotateX": 600,
           "rotateY": 1200
         }
-      },
-      nb: 80
+      }
     },
     "interactivity": {
       "detect_on": "canvas",
       "events": {
         "onhover": {
-          "enable": false,
-          "mode": "grab"
+          "enable": true,
+          "mode": "bubble"
         },
         "onclick": {
-          "enable": true,
-          "mode": "push"
+          "enable": false,
+          "mode": "repulse"
         },
         "resize": true
       },
