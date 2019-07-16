@@ -1,0 +1,13 @@
+ <div class="user-details">
+  <h1> Acerca mio </h1>
+  <p> {{ site.user_description }} </p>
+</div>
+  <div class="user">
+    {% for service in site.data.services %}
+      <div class="tech">
+        <h2>{{ service.name }}</h2>
+        <img alt="{{ service.image }}" src="assets/img/services/{{ service.image }}.png">
+        <p>{{ service.description }}</p>
+      </div>
+    {% endfor %}
+</div>

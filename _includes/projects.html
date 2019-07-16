@@ -1,0 +1,14 @@
+<div class="user-details">
+  <h1> Actividades </h1>
+</div>
+  {% for item in site.posts %}
+    <div class="user-projects">
+      <div class="{% cycle 'images-right', 'images-left' %}">
+        <img alt="{{ item.photo }}" src="assets/img/activities/{{ item.photo}}.png" />
+      </div>
+      <div class="{% cycle 'contents', 'contents-right' %}">
+        <h3> {{ item.title }} </h3>
+        {{ item.content }}
+      </div>
+    </div>
+  {% endfor %}

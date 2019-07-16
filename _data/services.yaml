@@ -1,0 +1,11 @@
+- name: Servicio uno
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent finibus efficitur sapien gravida hendrerit. In ut sollicitudin ligula. Quisque sit.
+  image: balanza
+
+- name: Servicio dos
+  description: Nam posuere, metus vel sagittis rhoncus, elit enim dignissim ante, nec placerat lorem turpis at leo. Suspendisse rutrum, tellus in.
+  image: fruta
+
+- name: Servicio tres
+  description: Phasellus id tincidunt enim, at volutpat lorem. Vivamus feugiat vehicula lectus, eget rutrum justo commodo eget. Aenean viverra dui vulputate.
+  image: kiwi
