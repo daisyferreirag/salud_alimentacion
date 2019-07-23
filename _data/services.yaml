@@ -1,4 +1,4 @@
-- name: Consultorio de Nutricion
+- name: Consultorio de Nutrición
   description: Mediante la consulta nutricional, se determina el estado nutricional del paciente. Según los resultados, se realiza una planificación de la alimentación para mantener o mejorar el estado de salud y el bienestar.
   image: balanza
 
@@ -6,10 +6,10 @@
   description: En los controles, se evalua la continuidad del régimen alimentario inicial, se visualizan los primeros resultados y se agregan las modificaciones pertinentes a un nuevo plan alimentario.
   image: fruta
 
-- name: Educacion Alimentaria Básica
+- name: Educación Alimentaria Básica
   description: A través de estrategias educativas te brindamos las nociones básicas para que adoptes de manera voluntaria conductas alimentarias saludables propicias para tu salud y bienestar.
   image: fruta
 
-- name: Taller de Educacion Alimentaria 
+- name: Taller de Educación Alimentaria 
   description: Te brindamos conocimientos sobre los grupos alimentarios, sus cualidades nutricionales, el efecto en la salud de su transformación alimentaria y cómo elaborar la distribución de la comida de manera diaria y semanal.
   image: kiwi
