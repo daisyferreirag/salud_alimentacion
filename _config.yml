@@ -1,17 +1,19 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-#url: ''
-baseurl: 'https://daisyferreirag.github.io/salud_alimentacion' #change it according to your repository name
+title: El Placer de Comer
+description: Promoviendo un estilo de vida saludable
+url: '/'
+#baseurl: 'https://daisyferreirag.github.io/salud_alimentacion' #change it according to your repository name
 
 # User settings
-username: Salud y Alimentación
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Msc Salud Pública - Nutricionista
+site_title: El Placer de Comer
+site_description: Promovemos un estilo de vida mas saludable a través de la educacion alimentaria. Capacitaciones individuales o grupales, en consultorio o en el lugar que prefiera. ¡Cuidamos tu bienestar, porque comer, tambien es un placer!
+professional_title: Msc Salud Pública - Nutricionista
+professional_name: Daisy Ferreira
 email: daisyferreira.g@gmail.com
 #twitter_id: lorem_ipsum
 #github_id:  lorem_ipsum
 facebook_id: dfnutricionysalud
+instagram_id: daisyferreirasalud
 
 # Google-analytics
 google-analytics:

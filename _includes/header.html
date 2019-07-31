@@ -1,8 +1,9 @@
 <div id="particles-js">
   <div class="header">
       <h1>
-        <span class="site-title">{{site.username}}</span>
-        <span class="site-description">{{site.user_title}}</span>
+        <span class="site-title">{{site.site_title}}</span>
+        <span class="site-description">{{site.professional_name}}</span>
+        <span class="site-description">{{site.professional_title}}</span>
       </h1>
       <div class="header-icons">
 
@@ -20,6 +21,10 @@
 
           {% if site.twitter_id %}
           <a aria-label="Twitter" target="_blank" href="https://twitter.com/{{ site.twitter_id }}"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+          {% endif %}
+
+          {% if site.instagram_id %}
+          <a aria-label="Instagram" target="_blank" href="https://www.instagram.com/{{ site.instagram_id }}"><i class="icon fa fa-instagram" aria-hidden="true"></i></a>
           {% endif %}
 
 

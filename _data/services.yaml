@@ -6,10 +6,10 @@
   description: En los controles, se evalua la continuidad del régimen alimentario inicial, se visualizan los primeros resultados y se agregan las modificaciones pertinentes a un nuevo plan alimentario.
   image: fruta
 
-- name: Educación Alimentaria Básica
+- name: Educación Alimentaria
   description: A través de estrategias educativas te brindamos las nociones básicas para que adoptes de manera voluntaria conductas alimentarias saludables propicias para tu salud y bienestar.
-  image: fruta
+  image: brocoli
 
-- name: Taller de Educación Alimentaria 
+- name: Taller de Alimentación 
   description: Te brindamos conocimientos sobre los grupos alimentarios, sus cualidades nutricionales, el efecto en la salud de su transformación alimentaria y cómo elaborar la distribución de la comida de manera diaria y semanal.
-  image: kiwi
+  image: tenedor
