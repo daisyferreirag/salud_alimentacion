@@ -25,7 +25,7 @@
   margin: 0 auto;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  .site-title {
+  .title {
     font-size: 50px;
     display: block;
     line-height: 1;
@@ -35,7 +35,7 @@
       font-size: 100px;
     }
   }
-  .site-description {
+  .title2 {
     font-size: 20px;
     display: block;
     line-height: 1;
@@ -43,6 +43,17 @@
     margin-top: 10px;
     @media only screen and (min-width:$cut){
       font-size: 40px;
+    }
+  }
+
+  .title3 {
+    font-size: 15px;
+    display: block;
+    line-height: 1;
+    color: #FFF;
+    margin-top: 5px;
+    @media only screen and (min-width: $cut) {
+      font-size: 30px;
     }
   }
 }
