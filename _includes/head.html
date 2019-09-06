@@ -1,4 +1,14 @@
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-147234050-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-147234050-1');
+    </script>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,5 +20,20 @@
             {{ site.description }}
           {% endif %}">
 
+    <meta name=”ROBOTS” content=”FOLLOW, INDEX”>
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.elplacerdecomer.com.py/" />
+    <meta property="og:image" content="http://elplacerdecomer.com.py/assets/img/ig_image.gif" />
+    <meta property="og:description" content="{{ site.description }}" />
+
+    <meta itemprop="name" content="{{ site.title }}">
+    <meta itemprop="description" content="{{ site.description }}">
+    <meta itemprop="image" content="http://elplacerdecomer.com.py/assets/img/logo.png">
+
+
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+
+    <link rel=”canonical” href=”http://elplacerdecomer.com.py/” />
+
 </head>
