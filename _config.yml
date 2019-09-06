@@ -15,8 +15,4 @@ email: daisyferreira.g@gmail.com
 facebook_id: dfnutricionysalud
 instagram_id: daisyferreirasalud
 
-# Google-analytics
-google-analytics:
-  id: ""
-
 exclude: ['package.json', 'src' , 'node_modules', 'gulpfile.js', 'README.md', 'LICENSE.txt', 'package-lock.json']
