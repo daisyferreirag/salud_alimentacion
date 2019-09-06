@@ -1,8 +1,8 @@
 # Site settings
 title: El Placer de Comer
-description: Promoviendo un estilo de vida saludable
+description: Promovemos un estilo de vida mas saludable a través de la educacion alimentaria. ¡Cuidamos tu bienestar, porque comer, tambien es un placer!
 #url: '/'
-baseurl: 'http://www.elplacerdecomer.com.py' #change it according to your repository name
+baseurl: 'http://www.elplacerdecomer.com.py'
 
 # User settings
 site_title: El Placer de Comer
