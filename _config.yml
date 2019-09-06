@@ -1,12 +1,12 @@
 # Site settings
 title: El Placer de Comer
-description: Promovemos un estilo de vida mas saludable a través de la educacion alimentaria. ¡Cuidamos tu bienestar, porque comer, tambien es un placer!
+description: Promovemos un estilo de vida más saludable a través de la educación alimentaria. ¡Cuidamos tu bienestar, porque comer bien, tambien es un placer!
 #url: '/'
 baseurl: 'http://www.elplacerdecomer.com.py'
 
 # User settings
 site_title: El Placer de Comer
-site_description: Promovemos un estilo de vida mas saludable a través de la educacion alimentaria. Capacitaciones individuales o grupales, en consultorio o en el lugar que prefiera. ¡Cuidamos tu bienestar, porque comer, tambien es un placer!
+site_description: Promovemos un estilo de vida mas saludable a través de la educacion alimentaria. Capacitaciones individuales o grupales, en consultorio o en el lugar que prefieras. ¡Cuidamos tu bienestar, porque comer bien, tambien es un placer!
 professional_title: Msc Salud Pública - Nutricionista
 professional_name: Daisy Ferreira
 email: daisyferreira.g@gmail.com
