@@ -13,6 +13,6 @@ email: daisyferreira.g@gmail.com
 #twitter_id: lorem_ipsum
 #github_id:  lorem_ipsum
 facebook_id: dfnutricionysalud
-instagram_id: daisyferreirasalud
+instagram_id: dfelplacerdecomer
 
 exclude: ['package.json', 'src' , 'node_modules', 'gulpfile.js', 'README.md', 'LICENSE.txt', 'package-lock.json']
