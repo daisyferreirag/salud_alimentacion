@@ -51,15 +51,6 @@ gulp.task('sass', function() {
 });
 
 /*
-* Compile fonts
-*/
-gulp.task('fonts', function() {
-	return gulp.src('src/fonts/**/*.{ttf,woff,woff2}')
-		.pipe(plumber())
-		.pipe(gulp.dest('assets/fonts/'))
-});
-
-/*
  * Minify images
  */
 gulp.task('imagemin', function() {
