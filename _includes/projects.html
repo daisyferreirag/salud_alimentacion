@@ -1,7 +1,7 @@
 <div class="user-details">
   <h1> Actividades </h1>
 </div>
-  {% for item in site.posts limit:10 %}
+  {% for item in site.categories.Actividad limit:10 %}
     <div class="user-projects">
       <div class="{% cycle 'images-right', 'images-left' %}">
         <img alt="{{ item.photo }}" src="assets/img/activities/{{ item.photo}}.png" />

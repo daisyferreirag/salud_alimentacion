@@ -1,19 +1,16 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang= {{ site.lang }}>
   {% include head.html %}
   <body>
+
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NPWJ659"
                     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-      {% include header.html %}
-      <section id="about">
-        {% include about.html %}
-      </section>
-      <section id="projects">
-        {% include projects.html %}
-      </section>
-        {{ content }}
-      {% include footer.html %}
+
+  {{ content }}
+
+  {% include footer.html %}
+
   </body>
 </html>

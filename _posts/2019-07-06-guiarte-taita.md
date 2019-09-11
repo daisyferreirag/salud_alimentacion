@@ -2,6 +2,7 @@
 layout: default
 title:  "Guiándote a un envejecimiento saludable Vol. 2"
 photo: "taita"
+categories: [Actividad]
 ---
 En el mes de julio, continuamos nuestra Promoción de la Salud en adultos mayores a través de nuestro equipo multidisciplinario con los profesionales de Guiarte. Esta vez, tuvimos la invitación de "Taita" para realizarlo en su hogar. Gerontología, kinesiología, psicomotricidad y musicoterapia fueron las disciplinas que estuvieron complementando nuestra Educación Alimentaria. 
 

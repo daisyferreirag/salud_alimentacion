@@ -4,7 +4,8 @@ description: Promovemos un estilo de vida más saludable a través de la educaci
 url: 'http://elplacerdecomer.com.py'
 baseurl: ''
 keywords: salut, alimentacion, daisy ferreira, comer, saludable, nutricionista en paraguay, estilo de vida, educacion alimentaria, dietas, comida sana, adulto mayor
-
+encoding: utf-8
+lang: es
 sass:
   style: compressed
 excerpt_separator: <!-- more -->
