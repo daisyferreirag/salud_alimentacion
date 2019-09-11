@@ -21,4 +21,11 @@ email: daisyferreira.g@gmail.com
 facebook_id: dfnutricionysalud
 instagram_id: dfelplacerdecomer
 
+#Gem config
+paginate: 2
+paginate_path: blog/page:num
+
 exclude: ['package.json', 'src' , 'node_modules', 'gulpfile.js', 'README.md', 'LICENSE.txt', 'package-lock.json']
+
+plugins:
+  - jekyll-paginate
