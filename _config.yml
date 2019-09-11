@@ -1,9 +1,8 @@
 # Site settings
 title: El Placer de Comer
 description: Promovemos un estilo de vida más saludable a través de la educación alimentaria. ¡Cuidamos tu bienestar, porque comer bien, tambien es un placer!
-#url: '/'
-baseurl: 'http://www.elplacerdecomer.com.py'
-#baseurl: ''
+url: 'http://elplacerdecomer.com.py'
+baseurl: ''
 keywords: salut, alimentacion, daisy ferreira, comer, saludable, nutricionista en paraguay, estilo de vida, educacion alimentaria, dietas, comida sana, adulto mayor
 
 # User settings
