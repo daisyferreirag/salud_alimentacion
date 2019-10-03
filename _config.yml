@@ -19,4 +19,6 @@ email: daisyferreira.g@gmail.com
 facebook_id: dfnutricionysalud
 instagram_id: dfelplacerdecomer
 
+#google-tag-manager: GTM-NPWJ659
+
 exclude: ['package.json', 'src' , 'node_modules', 'gulpfile.js', 'README.md', 'LICENSE.txt', 'package-lock.json']
