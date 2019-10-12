@@ -20,5 +20,6 @@ facebook_id: dfnutricionysalud
 instagram_id: dfelplacerdecomer
 
 #google-tag-manager: GTM-NPWJ659
+facebook_app_id: 526749968121924
 
 exclude: ['package.json', 'src' , 'node_modules', 'gulpfile.js', 'README.md', 'LICENSE.txt', 'package-lock.json']
