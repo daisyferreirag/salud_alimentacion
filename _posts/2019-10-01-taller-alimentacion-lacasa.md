@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "¿Cómo envejecer de manera saludable?"
-photo: "finset"
+title:  "Alimentación Saludable Vol. Setiembre"
+photo: "la-casa-alimentacion-saludable-setiembre"
 ---
 El pasado 28 de setiembre, culminó con gran aceptación el taller mensual de "Alimentación Saludable" realizado en La Casa 1073. Además de muchos nuevos conocimentos, fueron otorgadas a las paricipantes un certificado de asistencia testificando su compromiso de poner en practica todo lo aprendido. 
 

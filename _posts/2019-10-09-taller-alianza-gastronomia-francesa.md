@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "La Alimentación y la cultura gastronómica francesa"
-photo: "alianza"
+photo: "taller-alianza-octubre-9"
 ---
 El pasado 9 de octubre, estuvimos en la Alianza Francesa de Asunción brindando una charla acerca de la vasta cultura gastronómica francesa. Haciendo un breve paseo por el tiempo, recorrimos las etapas que marcaron y definieron a la cocina francesa hasta llegar a ser lo que actualmente representa, un arte. 
 
