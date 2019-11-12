@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Los sábados de noviembre nos vemos en La Casa 1073"
-photo: "taller.noviembre"
+photo: "la-casa-alimentacion-saludable-noviembre"
 ---
 Asi es! Víctima de su suceso, volvemos con los talleres sabatinos de Alimentación Saludable. Especialmente pensado para ir preparando tu cuerpo y tu salud a las fiestas de fin de año. 
 

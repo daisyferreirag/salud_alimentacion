@@ -54,9 +54,13 @@ gulp.task('sass', function() {
  * Minify images
  */
 gulp.task('imagemin', function() {
-	return gulp.src('src/img/**/*.{jpg,png,gif}')
+	return gulp.src('assets/img/**/*.{jpg,png,gif}')
 		.pipe(plumber())
-		.pipe(imagemin({ optimizationLevel: 10, progressive: true, interlaced: true }))
+		.pipe(imagemin([
+			imagemin.jpegtran({ optimizationLevel: 10, progressive: true, interlaced: true }),
+			imagemin.optipng({optimizationLevel: 5, interlaced: true}),
+			imagemin.gifsicle({interlaced: true})
+		]))
 		.pipe(gulp.dest('assets/img/'))
 });
 
@@ -79,6 +83,6 @@ gulp.task('watch', function() {
   gulp.watch(['*html', '_includes/*html', '_layouts/*.html'], gulp.series(['jekyll-rebuild']));
 });
 
-gulp.task('default', gulp.series(['js', 'sass', 'fonts', 'browser-sync', 'watch']));
+gulp.task('default', gulp.series(['js', 'sass', 'browser-sync', 'watch']));
 
-gulp.task('content', gulp.series(['js', 'sass', 'fonts']));
+gulp.task('content', gulp.series(['js', 'sass']));
