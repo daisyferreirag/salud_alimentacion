@@ -1,9 +1,9 @@
 layout: default
-title:  "Promoción en Consultorio de Nutrición - Asunción"
+title: "Promoción en Consultorio de Nutrición - Asunción"
 photo: "Promo-febrero"
 ---
 
-Si tienes alguna patologia especifica, has tenido alguna cirugia o simplemente quieres aprender a comer mas sano y mejor, te espero en la clinica Espacio Health ubicada en Victor Idoyaga 5050 esq. Charles de Gaulle en Asunción. 
+Si tienes alguna patologia específica, has tenido alguna cirugía o simplemente quieres aprender a comer mas sano y mejor, te espero en la clinica Espacio Health ubicada en Victor Idoyaga 5050 esq. Charles de Gaulle en Asunción. 
 
 Aún estas a tiempo para comenzar a cuidar tu alimentación y la de tus seres queridos. Durante todo febrero tendremos descuentos en las consultas de Nutrición. 
 
