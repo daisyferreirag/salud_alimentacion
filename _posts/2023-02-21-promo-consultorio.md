@@ -1,5 +1,5 @@
 layout: default
-title: "Promoción en Consultorio de Nutrición - Asunción"
+title: "Promoción Consultorio de Nutrición - Asunción"
 photo: "Promo-febrero"
 ---
 
