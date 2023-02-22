@@ -8,5 +8,4 @@ Si tienes alguna patologia específica, has tenido alguna cirugía o simplemente
 
 Aún estas a tiempo para comenzar a cuidar tu alimentación y la de tus seres queridos.  
 
-Reserva tu consulta enviando un [mensaje AQUI](url)([url]https://beacons.ai/elplacerdecomer/)
-
+Reserva tu consulta enviando un [mensaje AQUI](url)
